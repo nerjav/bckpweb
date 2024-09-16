@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Nestormorel.com | En construcción</title>
+  <style>
+    /* Establece el tamaño de la imagen de fondo y la hace responsive */
+    body {
+      background-image: url('nestormorel.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+    }
+
+    /* Asegura que la imagen de fondo se ajuste al tamaño de la ventana del navegador en dispositivos móviles */
+    @media (max-width: 767px) {
+      body {
+        background-attachment: scroll;
+        background-size: auto 100%;
+      }
+    }
+
+    /* Ajustes específicos para dispositivos iPhone */
+    @media (max-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+      body {
+        background-attachment: scroll;
+        background-size: cover;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- No se requiere contenido adicional, la imagen de fondo ocupará toda la página -->
+</body>
+</html>

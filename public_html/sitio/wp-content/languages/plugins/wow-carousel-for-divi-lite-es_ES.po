@@ -1,0 +1,1360 @@
+# Translation of Plugins - Divi Carousel Lite - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Divi Carousel Lite - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-28 22:03:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Divi Carousel Lite - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Wow Carousel for Divi ( Free )"
+msgstr "Wou Carrusel para Divi (gratis)"
+
+#: includes/admin-dashboard.php:34 includes/admin-dashboard.php:35
+msgid "About"
+msgstr "Acerca de"
+
+#: includes/modules/ModulesCore/ModulesCore.php:344
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:344
+msgid "Right to Left"
+msgstr "De derecha a izquierda"
+
+#: includes/modules/ModulesCore/ModulesCore.php:343
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:343
+msgid "Left to Right"
+msgstr "De izquierda a derecha"
+
+#: includes/modules/ModulesCore/ModulesCore.php:337
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:337
+msgid "Define sliding direction. RTL sliding will only work on frontend. "
+msgstr "Define la dirección de deslizamiento. El deslizamiento RTL solo funcionará en la portada. "
+
+#: includes/modules/ModulesCore/ModulesCore.php:336
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:336
+msgid "Sliding Direction"
+msgstr "Dirección de deslizamiento"
+
+#: templates/admin/admin-main.php:83
+#: wporg/trunk/templates/admin/admin-main.php:79
+msgid "Click and view demo"
+msgstr "Haz click y ve la demostración"
+
+#: templates/admin/admin-main.php:24 templates/admin/admin-plugins.php:27
+#: wporg/trunk/templates/admin/admin-main.php:24
+msgid "UPGRADE TO PRO"
+msgstr "ACTUALIZAR A PRO"
+
+#: templates/admin/admin-main.php:12 templates/admin/admin-plugins.php:15
+#: wporg/trunk/templates/admin/admin-main.php:12
+msgid "Wow Divi Carousel"
+msgstr "Wow Divi Carrusel"
+
+#: includes/notices.php:42 wporg/trunk/includes/notices.php:42
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: includes/notices.php:38 wporg/trunk/includes/notices.php:38
+msgid "Nope, maybe later"
+msgstr "No, quizá más tarde"
+
+#: includes/notices.php:34 wporg/trunk/includes/notices.php:34
+msgid "Ok, you deserve it"
+msgstr "Vale, te lo mereces"
+
+#: includes/notices.php:30 wporg/trunk/includes/notices.php:30
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the Wow Carousel plugin."
+msgstr "¿Podrías hacernos un GRAN favor y darle una puntuación de 5 estrellas en WordPress? Esto aumentaría nuestra motivación y ayudaría a otros usuarios a tomar una decisión cómoda al elegir el plugin Wow Carrusel."
+
+#: includes/notices.php:28 wporg/trunk/includes/notices.php:28
+msgid "Hello! Seems like you are using Wow Carousel plugin to build your Divi website - Thanks a lot!"
+msgstr "¡Hola! Parece que está utilizando el plugin Wow Carrusel para crear tu web Divi. ¡Muchas gracias!"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:1052
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:1052
+msgid " \"Number of Tweets to show\"  is more than your actual total Tweets's number. You have only "
+msgstr " El «Número de tuits a mostrar» es mayor que el número total actual de tuits. Solo tienes "
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:756
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:756
+msgid "\"Number of Tweets to show\" is more than your actual total Tweets's number. You have only "
+msgstr "El «Número de tuits a mostrar» es mayor que tu número total actual de tuits. Solo tienes "
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:575
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:575
+msgid "Avatar Box Shadow"
+msgstr "Sombra de la caja del avatar"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:565
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:565
+msgid "Tweets Box Shadow"
+msgstr "Sombra de caja de tuits"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:551
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:551
+msgid "Avatar Image"
+msgstr "Imagen del avatar"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:467
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:467
+msgid "Retweet Icon Size"
+msgstr "Tamaño del icono de retuitear"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:458
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:458
+msgid "Retweet Icon Color"
+msgstr "Color del icono de retuitear"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:434
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:434
+msgid "Retweet Color"
+msgstr "Color del retuit"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:418
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:418
+msgid "Favorite Icon Size"
+msgstr "Tamaño del icono favorito"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:408
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:408
+msgid "Favorite Icon Color"
+msgstr "Color del icono favorito"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:392
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:443
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:392
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:443
+msgid "Favorite Text Font Size"
+msgstr "Tamaño de la fuente del texto favorito"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:382
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:382
+msgid "Favorite Color"
+msgstr "Color favorito"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:366
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:366
+msgid "Bottom Spacing"
+msgstr "Espacio inferior"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:354
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:354
+msgid "Enable this to display all Box with same height."
+msgstr "Actívalo para mostrar todas las cajas con la misma altura."
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:342
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:342
+msgid "Tweets Padding"
+msgstr "Relleno de los tuits"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:326
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:326
+msgid "Profile Image Size"
+msgstr "Tamaño de la imagen del perfil"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:313
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:313
+msgid "Twitter Icon Size"
+msgstr "Tamaño del icono de Twitter"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:300
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:300
+msgid "User Info Spacing"
+msgstr "Espaciado de información de usuario"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:287
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:287
+msgid "Footer Alignment"
+msgstr "Alineación de pie de página"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:264
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:264
+msgid "Read More Text"
+msgstr "Leer más texto"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:250
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:250
+msgid " Show Read More"
+msgstr " Mostrar leer más"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:238
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:238
+msgid "Show Retweet"
+msgstr "Mostrar retweet"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:226
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:226
+msgid "Show Favorite"
+msgstr "Mostrar favorito"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:214
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:214
+msgid "Show Date"
+msgstr "Mostrar la fecha"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:202
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:202
+msgid "Show User Name"
+msgstr "Mostrar el nombre de usuario"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:190
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:190
+msgid "Show Name"
+msgstr "Mostrar el nombre"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:178
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:178
+msgid "Show User Image"
+msgstr "Mostrar la imagen del usuario"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:166
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:166
+msgid "Show Twitter Logo"
+msgstr "Mostrar el logotipo de Twitter"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:152
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:152
+msgid "Number of tweets to show"
+msgstr "Número de tuits a mostrar"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:145
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:145
+msgid "Retweet"
+msgstr "Retuit"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:144
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:144
+msgid "Favorite"
+msgstr "Favorito"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:143
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:143
+msgid "Old Posts"
+msgstr "Entradas antiguas"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:142
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:142
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:138
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:138
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:128
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:128
+msgid "Consumer Secret"
+msgstr "Clave secreta del cliente"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:119
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:119
+msgid "Consumer Key"
+msgstr "Clave del cliente"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:113
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:267
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:113
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:267
+msgid "Use @ sign with your Twitter user name."
+msgstr "Usa el símbolo @ con tu nombre de usuario de Twitter."
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:110
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:110
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:71
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:71
+msgid "Footer"
+msgstr "Pie de página "
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:67
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:67
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:64
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:64
+msgid "Read More"
+msgstr "Leer más"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:61
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:61
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:52
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:52
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:49
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:49
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:45
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:45
+msgid "User Text"
+msgstr "Texto de usuario"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:43
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:43
+msgid "User Info"
+msgstr "Información del usuario"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:42
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:530
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:42
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:530
+msgid "Tweets Box"
+msgstr "Cuadro de tuits"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:23
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:23
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:22
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:22
+msgid "Twitter Settings"
+msgstr "Ajustes de Twitter"
+
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:14
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:14
+msgid "Wow Twitter Feed"
+msgstr "Wow Feed de Twitter"
+
+#: includes/modules/ModulesCore/ModulesCore.php:1939
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:1939
+msgid "Overlay Icon Opacity"
+msgstr "Opacidad del icono de superposición"
+
+#: includes/modules/ModulesCore/ModulesCore.php:1924
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:1924
+msgid "Overlay Icon Size"
+msgstr "Tamaño del icono superpuesto"
+
+#: includes/modules/ModulesCore/ModulesCore.php:1914
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:1914
+msgid "Overlay Icon Color"
+msgstr "Color del icono superpuesto"
+
+#: includes/modules/ModulesCore/ModulesCore.php:1904
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:1904
+msgid "Overlay Icon"
+msgstr "Icono de superposición"
+
+#: includes/modules/ModulesCore/ModulesCore.php:960
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:960
+msgid "Enable this to display all items with same height."
+msgstr "Activa esto para mostrar todos los elementos con la misma altura."
+
+#: includes/modules/ModulesCore/ModulesCore.php:957
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:351
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:957
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:351
+msgid "Use Equal Height"
+msgstr "Usar la misma altura"
+
+#: includes/modules/ModulesCore/ModulesCore.php:941
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:941
+msgid "Open Image in Lightbox"
+msgstr "Abrir la imagen en una caja de luz"
+
+#: includes/modules/ModulesCore/ModulesCore.php:894
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:894
+msgid "Spacing"
+msgstr "Espaciado"
+
+#: includes/modules/ModulesCore/ModulesCore.php:830
+#: includes/modules/ModulesCore/ModulesCore.php:910
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:830
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:910
+msgid "Color"
+msgstr "Color"
+
+#: includes/modules/ModulesCore/ModulesCore.php:817
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:277
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:817
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:277
+msgid "Alignment"
+msgstr "Alineación"
+
+#: includes/modules/ModulesCore/ModulesCore.php:798
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:798
+msgid "Right Icon"
+msgstr "Icono de la derecha"
+
+#: includes/modules/ModulesCore/ModulesCore.php:788
+#: includes/modules/ModulesCore/ModulesCore.php:807
+#: includes/modules/ModulesCore/ModulesCore.php:870
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:788
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:807
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:870
+msgid "Border Radius"
+msgstr "Radio del borde"
+
+#: includes/modules/ModulesCore/ModulesCore.php:779
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:779
+msgid "Left Icon"
+msgstr "Icono de la izquierda"
+
+#: includes/modules/ModulesCore/ModulesCore.php:772
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:772
+msgid "Outset"
+msgstr "Comienzo"
+
+#: includes/modules/ModulesCore/ModulesCore.php:771
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:771
+msgid "Inset"
+msgstr "Recuadro"
+
+#: includes/modules/ModulesCore/ModulesCore.php:770
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:770
+msgid "Ridge"
+msgstr "Cresta"
+
+#: includes/modules/ModulesCore/ModulesCore.php:769
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:769
+msgid "Groove"
+msgstr "Surco"
+
+#: includes/modules/ModulesCore/ModulesCore.php:768
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:768
+msgid "Double"
+msgstr "Doble"
+
+#: includes/modules/ModulesCore/ModulesCore.php:767
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:767
+msgid "Dotted"
+msgstr "Punteado"
+
+#: includes/modules/ModulesCore/ModulesCore.php:766
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:766
+msgid "Dashed"
+msgstr "Discontinuo"
+
+#: includes/modules/ModulesCore/ModulesCore.php:765
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:765
+msgid "Solid"
+msgstr "Continuo"
+
+#: includes/modules/ModulesCore/ModulesCore.php:758
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:758
+msgid "Border Type"
+msgstr "Tipo de borde"
+
+#: includes/modules/ModulesCore/ModulesCore.php:748
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:748
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: includes/modules/ModulesCore/ModulesCore.php:732
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:732
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+#: includes/modules/ModulesCore/ModulesCore.php:713
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:713
+msgid "Horizontal Position"
+msgstr "Posición horizontal"
+
+#: includes/modules/ModulesCore/ModulesCore.php:696
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:696
+msgid "Use Horizontal Position Center"
+msgstr "Usar centro de posición horizontal"
+
+#: includes/modules/ModulesCore/ModulesCore.php:680
+#: includes/modules/ModulesCore/ModulesCore.php:879
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:680
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:879
+msgid "Vertical Position"
+msgstr "Posición vertical"
+
+#: includes/modules/ModulesCore/ModulesCore.php:659
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:659
+msgid "Spacing Between"
+msgstr "Espacio intermedio"
+
+#: includes/modules/ModulesCore/ModulesCore.php:642
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:642
+msgid "Skew"
+msgstr "Inclinar"
+
+#: includes/modules/ModulesCore/ModulesCore.php:632
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:632
+msgid "Background"
+msgstr "Fondo"
+
+#: includes/modules/ModulesCore/ModulesCore.php:622
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:622
+msgid "Icon Color"
+msgstr "Color de icono"
+
+#: includes/modules/ModulesCore/ModulesCore.php:606
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:606
+msgid "Icon Size"
+msgstr "Tamaño del icono"
+
+#: includes/modules/ModulesCore/ModulesCore.php:555
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:555
+msgid "Horizontal Placement"
+msgstr "Colocación horizontal"
+
+#: includes/modules/ModulesCore/ModulesCore.php:538
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:538
+msgid "Vertical Placement"
+msgstr "Colocación vertical"
+
+#: includes/modules/ModulesCore/ModulesCore.php:532
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:532
+msgid "Alongside"
+msgstr "Junto a"
+
+#: includes/modules/ModulesCore/ModulesCore.php:524
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:524
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/modules/ModulesCore/ModulesCore.php:507
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:507
+msgid "Carousel Spacing Bottom"
+msgstr "Espaciado inferior del carrusel"
+
+#: includes/modules/ModulesCore/ModulesCore.php:491
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:491
+msgid "Carousel Spacing Top"
+msgstr "Espaciado superior del carrusel"
+
+#: includes/modules/ModulesCore/ModulesCore.php:482
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:482
+msgid "Burger"
+msgstr "Hamburguesa"
+
+#: includes/modules/ModulesCore/ModulesCore.php:481
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:481
+msgid "Pizza"
+msgstr "Pizza"
+
+#: includes/modules/ModulesCore/ModulesCore.php:480
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:480
+msgid "Move"
+msgstr "Mover"
+
+#: includes/modules/ModulesCore/ModulesCore.php:479
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:479
+msgid "Pointer"
+msgstr "Puntero"
+
+#: includes/modules/ModulesCore/ModulesCore.php:478
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:478
+msgid "Grab"
+msgstr "Agarrar"
+
+#: includes/modules/ModulesCore/ModulesCore.php:476
+#: includes/modules/ModulesCore/ModulesCore.php:531
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:476
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:531
+msgid "Default"
+msgstr "Por defecto"
+
+#: includes/modules/ModulesCore/ModulesCore.php:470
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:470
+msgid "Cursor Name"
+msgstr "Nombre del cursor"
+
+#: includes/modules/ModulesCore/ModulesCore.php:457
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:457
+msgid "Use Custom Cursor"
+msgstr "Usar cursor personalizado"
+
+#: includes/modules/ModulesCore/ModulesCore.php:436
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:436
+msgid "Center Padding"
+msgstr "Relleno central"
+
+#: includes/modules/ModulesCore/ModulesCore.php:428
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:428
+msgid "Highlighted"
+msgstr "Resaltado"
+
+#: includes/modules/ModulesCore/ModulesCore.php:427
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:427
+msgid "Classic"
+msgstr "Clásico"
+
+#: includes/modules/ModulesCore/ModulesCore.php:421
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:421
+msgid "Center Mode Type"
+msgstr "Tipo de modo central"
+
+#: includes/modules/ModulesCore/ModulesCore.php:408
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:408
+msgid "Center Mode"
+msgstr "Modo centrado"
+
+#: includes/modules/ModulesCore/ModulesCore.php:395
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:395
+msgid "Vertical Mode"
+msgstr "Modo vertical"
+
+#: includes/modules/ModulesCore/ModulesCore.php:379
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:379
+msgid "Items to Scroll"
+msgstr "Elementos para desplazarse"
+
+#: includes/modules/ModulesCore/ModulesCore.php:366
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:366
+msgid "Auto Height"
+msgstr "Altura automática"
+
+#: includes/modules/ModulesCore/ModulesCore.php:349
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:349
+msgid "Fade Effect"
+msgstr "Efecto de fundido"
+
+#: includes/modules/ModulesCore/ModulesCore.php:323
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:323
+msgid "Infinite looping"
+msgstr "Bucle infinito"
+
+#: includes/modules/ModulesCore/ModulesCore.php:308
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:308
+msgid "Slide Spacing"
+msgstr "Espaciado de diapositivas"
+
+#: includes/modules/ModulesCore/ModulesCore.php:300
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:300
+msgid "8"
+msgstr "8"
+
+#: includes/modules/ModulesCore/ModulesCore.php:299
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:299
+msgid "7"
+msgstr "7"
+
+#: includes/modules/ModulesCore/ModulesCore.php:298
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:298
+msgid "6"
+msgstr "6"
+
+#: includes/modules/ModulesCore/ModulesCore.php:297
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:297
+msgid "5"
+msgstr "5"
+
+#: includes/modules/ModulesCore/ModulesCore.php:296
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:296
+msgid "4"
+msgstr "4"
+
+#: includes/modules/ModulesCore/ModulesCore.php:295
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:295
+msgid "3"
+msgstr "3"
+
+#: includes/modules/ModulesCore/ModulesCore.php:294
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:294
+msgid "2"
+msgstr "2"
+
+#: includes/modules/ModulesCore/ModulesCore.php:293
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:293
+msgid "1"
+msgstr "1"
+
+#: includes/modules/ModulesCore/ModulesCore.php:286
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:286
+msgid "Slides To Show"
+msgstr "Diapositivas para mostrar"
+
+#: includes/modules/ModulesCore/ModulesCore.php:267
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:267
+msgid "Slide Width"
+msgstr "Ancho de diapositiva"
+
+#: includes/modules/ModulesCore/ModulesCore.php:254
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:254
+msgid "Use Fixed Width Slide"
+msgstr "Usar diapositiva de ancho fijo"
+
+#: includes/modules/ModulesCore/ModulesCore.php:239
+#: includes/modules/ModulesCore/ModulesCore.php:249
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:239
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:249
+msgid "Navigation & Pagination"
+msgstr "Navegación y paginación"
+
+#: includes/modules/ModulesCore/ModulesCore.php:221
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:221
+msgid "Autoplay Speed"
+msgstr "Velocidad de reproducción automática"
+
+#: includes/modules/ModulesCore/ModulesCore.php:208
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:208
+msgid "Autoplay"
+msgstr "Reproducción automática"
+
+#: includes/modules/ModulesCore/ModulesCore.php:193
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:193
+msgid "Animation Speed"
+msgstr "Velocidad de animación"
+
+#: includes/modules/ModulesCore/ModulesCore.php:20
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:20
+msgid "%1$s Background"
+msgstr "Antecedentes de %1$s"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:122
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:122
+msgid "Iten"
+msgstr "Artículo"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:62
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:62
+msgid "Link Url"
+msgstr "URL del enlace"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:55
+#: includes/modules/ModulesCore/ModulesCore.php:216
+#: includes/modules/ModulesCore/ModulesCore.php:262
+#: includes/modules/ModulesCore/ModulesCore.php:331
+#: includes/modules/ModulesCore/ModulesCore.php:357
+#: includes/modules/ModulesCore/ModulesCore.php:374
+#: includes/modules/ModulesCore/ModulesCore.php:403
+#: includes/modules/ModulesCore/ModulesCore.php:416
+#: includes/modules/ModulesCore/ModulesCore.php:465
+#: includes/modules/ModulesCore/ModulesCore.php:704
+#: includes/modules/ModulesCore/ModulesCore.php:949
+#: includes/modules/ModulesCore/ModulesCore.php:963
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:170
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:182
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:194
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:206
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:218
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:230
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:242
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:254
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:357
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:55
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:216
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:262
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:331
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:357
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:374
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:403
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:416
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:465
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:704
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:949
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:963
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:170
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:182
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:194
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:206
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:218
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:230
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:242
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:254
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:357
+msgid "No"
+msgstr "No"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:54
+#: includes/modules/ModulesCore/ModulesCore.php:215
+#: includes/modules/ModulesCore/ModulesCore.php:261
+#: includes/modules/ModulesCore/ModulesCore.php:330
+#: includes/modules/ModulesCore/ModulesCore.php:356
+#: includes/modules/ModulesCore/ModulesCore.php:373
+#: includes/modules/ModulesCore/ModulesCore.php:402
+#: includes/modules/ModulesCore/ModulesCore.php:415
+#: includes/modules/ModulesCore/ModulesCore.php:464
+#: includes/modules/ModulesCore/ModulesCore.php:703
+#: includes/modules/ModulesCore/ModulesCore.php:948
+#: includes/modules/ModulesCore/ModulesCore.php:962
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:169
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:181
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:193
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:205
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:217
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:229
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:241
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:253
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:356
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:54
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:215
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:261
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:330
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:356
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:373
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:402
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:415
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:464
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:703
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:948
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:962
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:169
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:181
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:193
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:205
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:217
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:229
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:241
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:253
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:356
+msgid "Yes"
+msgstr "Si"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:50
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:50
+msgid "Use Link"
+msgstr "Usar el enlace"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:44
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:44
+msgid "Logo Alt Text"
+msgstr "Texto «alt» del logotipo"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:39
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:39
+msgid "Set As Logo"
+msgstr "Establecer como logotipo"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:38
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:38
+msgid "Choose a Logo"
+msgstr "Elegir un logotipo"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:37
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:37
+msgid "Upload a Logo"
+msgstr "Subir un logotipo"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:34
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:34
+msgid "Upload Logo"
+msgstr "Subir un logotipo"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:23
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:23
+msgid "Borders"
+msgstr "Bordes"
+
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:10
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:10
+msgid "Logo"
+msgstr "Logotipo"
+
+#: includes/modules/LogoCarousel/LogoCarousel.php:113
+#: includes/modules/ModulesCore/ModulesCore.php:589
+#: includes/modules/ModulesCore/ModulesCore.php:855
+#: includes/modules/ModulesCore/ModulesCore.php:919
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:113
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:589
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:855
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:919
+msgid "Width"
+msgstr "Anchura"
+
+#: includes/modules/LogoCarousel/LogoCarousel.php:98
+#: includes/modules/ModulesCore/ModulesCore.php:572
+#: includes/modules/ModulesCore/ModulesCore.php:840
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:98
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:572
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:840
+msgid "Height"
+msgstr "Alto"
+
+#: includes/modules/LogoCarousel/LogoCarousel.php:93
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:93
+msgid "Black and White"
+msgstr "Blanco y negro"
+
+#: includes/modules/LogoCarousel/LogoCarousel.php:92
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:92
+msgid "Fade"
+msgstr "Desteñir"
+
+#: includes/modules/LogoCarousel/LogoCarousel.php:35
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:35
+msgid "Logo Settings"
+msgstr "Ajustes del logotipo"
+
+#: includes/modules/LogoCarousel/LogoCarousel.php:13
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:13
+msgid "Wow Logo Carousel"
+msgstr "Wow Logo Carousel"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:230
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:89
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:230
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:89
+msgid "This will change the label of the item"
+msgstr "Esto cambiará la etiqueta del elemento"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:228
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:87
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:228
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:87
+msgid "Admin Label"
+msgstr "Etiqueta de administración"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:208
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:208
+msgid "Title Spacing Bottom"
+msgstr "Espacio inferior del título"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:202
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:202
+msgid "Slide In Down"
+msgstr "Deslizar hacia abajo"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:201
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:201
+msgid "Slide In Up"
+msgstr "Deslizar hacia arriba"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:200
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:200
+msgid "Rotate In"
+msgstr "Girar hacia adentro"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:199
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:199
+msgid "Light Speed In"
+msgstr "Velocidad de la luz hacia adentro"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:198
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:198
+msgid "Flip"
+msgstr "Dar la vuelta"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:197
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:197
+msgid "Fade In"
+msgstr "Aparecer"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:196
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:196
+msgid "Bounce In"
+msgstr "Rebotar hacia dentro"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:195
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:195
+msgid "Heart Beat"
+msgstr "Latido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:194
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:194
+msgid "Jello"
+msgstr "Gelatina"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:193
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:193
+msgid "Wobble"
+msgstr "Tambaleo"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:192
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:192
+msgid "Tada"
+msgstr "Tachán"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:191
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:191
+msgid "Swing"
+msgstr "Balanceo"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:190
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:190
+msgid "Shake"
+msgstr "Sacudida"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:189
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:189
+msgid "Rubber Band"
+msgstr "Goma elástica"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:188
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:188
+msgid "Flash"
+msgstr "Flash"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:187
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:187
+msgid "Bounce"
+msgstr "Rebote"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:186
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:186
+msgid "Pulse"
+msgstr "Pulso"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:185
+#: includes/modules/LogoCarousel/LogoCarousel.php:91
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:185
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:91
+msgid "Zoom Out"
+msgstr "Disminuir el zoom"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:184
+#: includes/modules/LogoCarousel/LogoCarousel.php:90
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:184
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:90
+msgid "Zoom In"
+msgstr "Acercarse"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:183
+#: includes/modules/LogoCarousel/LogoCarousel.php:89
+#: includes/modules/ModulesCore/ModulesCore.php:246
+#: includes/modules/ModulesCore/ModulesCore.php:477
+#: includes/modules/ModulesCore/ModulesCore.php:773
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:183
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:89
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:246
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:477
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:773
+msgid "None"
+msgstr "Ninguno"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:177
+#: includes/modules/LogoCarousel/LogoCarousel.php:84
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:177
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:84
+msgid "Image Hover Animation"
+msgstr "Animación de la imagen al pasar el cursor"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:161
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:161
+msgid "Image Height"
+msgstr "Altura de la imagen"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:152
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:152
+msgid "Content Padding"
+msgstr "Relleno del contenido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:144
+#: includes/modules/ModulesCore/ModulesCore.php:546
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:144
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:546
+msgid "Bottom"
+msgstr "Abajo"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:143
+#: includes/modules/ModulesCore/ModulesCore.php:545
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:143
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:545
+msgid "Top"
+msgstr "Arriba"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:136
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:136
+msgid "Content Vertical Position"
+msgstr "Posición vertical del contenido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:126
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:142
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:126
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:142
+msgid "Center"
+msgstr "Centro"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:120
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:120
+msgid "Content Horizontal Position"
+msgstr "Posición horizontal del contenido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:115
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:115
+msgid "Absolute"
+msgstr "Absoluto"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:114
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:114
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:108
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:108
+msgid "Content Type"
+msgstr "Tipo de contenido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:94
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:94
+msgid "Content Width"
+msgstr "Ancho del contenido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:83
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:83
+msgid "Content Text Alignment"
+msgstr "Alineación del texto del contenido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:65
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:65
+msgid "Set As Image"
+msgstr "Establecer como imagen"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:64
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:64
+msgid "Choose an Image"
+msgstr "Elegir una imagen"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:63
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:63
+msgid "Upload an image"
+msgstr "Subir una imagen"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:59
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:59
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:47
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:47
+msgid "Border"
+msgstr "Borde"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:42
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:76
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:273
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:42
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:76
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:273
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:39
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:69
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:251
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:39
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:69
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:251
+msgid "Title"
+msgstr "Título"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:35
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:35
+msgid "Texts"
+msgstr "Textos"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:29
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:22
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:29
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:22
+msgid "Overlay"
+msgstr "Superposición"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:26
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:26
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:18
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:32
+#: includes/modules/LogoCarouselChild/LogoCarouselChild.php:16
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:57
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:18
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:32
+#: wporg/trunk/includes/modules/LogoCarouselChild/LogoCarouselChild.php:16
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:57
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:12
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:295
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:12
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:295
+msgid "Item"
+msgstr "Elemento"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:65
+#: includes/modules/LogoCarousel/LogoCarousel.php:68
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:65
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:68
+msgid "Active"
+msgstr "Activo"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:58
+#: includes/modules/LogoCarousel/LogoCarousel.php:61
+#: includes/modules/ModulesCore/ModulesCore.php:248
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:58
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:61
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:248
+msgid "Pagination"
+msgstr "Paginación"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:53
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:128
+#: includes/modules/LogoCarousel/LogoCarousel.php:56
+#: includes/modules/ModulesCore/ModulesCore.php:563
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:53
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:128
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:56
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:563
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:50
+#: includes/modules/ImageCarouselChild/ImageCarouselChild.php:127
+#: includes/modules/LogoCarousel/LogoCarousel.php:53
+#: includes/modules/ModulesCore/ModulesCore.php:562
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:50
+#: wporg/trunk/includes/modules/ImageCarouselChild/ImageCarouselChild.php:127
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:53
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:562
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:47
+#: includes/modules/ImageCarousel/ImageCarousel.php:62
+#: includes/modules/LogoCarousel/LogoCarousel.php:50
+#: includes/modules/LogoCarousel/LogoCarousel.php:65
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:41
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:47
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:62
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:50
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:65
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:41
+msgid "Common"
+msgstr "Común"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:43
+#: includes/modules/LogoCarousel/LogoCarousel.php:46
+#: includes/modules/ModulesCore/ModulesCore.php:247
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:73
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:43
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:46
+#: wporg/trunk/includes/modules/ModulesCore/ModulesCore.php:247
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:73
+msgid "Navigation"
+msgstr "Navegación"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:40
+#: includes/modules/LogoCarousel/LogoCarousel.php:43
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:40
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:43
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:30
+#: includes/modules/LogoCarousel/LogoCarousel.php:30
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:32
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:30
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:30
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:32
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:27
+#: includes/modules/LogoCarousel/LogoCarousel.php:27
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:29
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:27
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:27
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:29
+msgid "General"
+msgstr "General"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:23
+#: includes/modules/LogoCarousel/LogoCarousel.php:23
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:25
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:23
+#: wporg/trunk/includes/modules/LogoCarousel/LogoCarousel.php:23
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:25
+msgid "Carousel Settings"
+msgstr "Ajustes del carrusel"
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:16
+#: wporg/trunk/includes/modules/ImageCarousel/ImageCarousel.php:16
+msgid "Wow Image Carousel"
+msgstr "Wow Carrusel de imágenes"
+
+#: includes/admin-dashboard.php:164
+#: wporg/trunk/includes/admin-dashboard.php:153
+msgid "Instagram Feed"
+msgstr "Feed de Instagram"
+
+#: includes/admin-dashboard.php:158
+#: wporg/trunk/includes/admin-dashboard.php:147
+msgid "Google Review"
+msgstr "Reseña de Google"
+
+#: includes/admin-dashboard.php:152
+#: wporg/trunk/includes/admin-dashboard.php:141
+msgid "Product Carousel"
+msgstr "Carrusel de productos"
+
+#: includes/admin-dashboard.php:146
+#: includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:21
+#: wporg/trunk/includes/admin-dashboard.php:135
+#: wporg/trunk/includes/modules/TwitterFeedCarousel/TwitterFeedCarousel.php:21
+msgid "Twitter Feed"
+msgstr "Feed de Twitter"
+
+#: includes/admin-dashboard.php:140
+#: wporg/trunk/includes/admin-dashboard.php:129
+msgid "Post Carousel"
+msgstr "Carrusel de entradas"
+
+#: includes/admin-dashboard.php:134
+#: wporg/trunk/includes/admin-dashboard.php:123
+msgid "Divi Library Carousel"
+msgstr "Carrusel de la biblioteca de Divi"
+
+#: includes/admin-dashboard.php:128
+#: wporg/trunk/includes/admin-dashboard.php:117
+msgid "Testimonial Carousel"
+msgstr "Carrusel de recomendaciones"
+
+#: includes/admin-dashboard.php:122
+#: wporg/trunk/includes/admin-dashboard.php:111
+msgid "Team Carousel"
+msgstr "Carrusel del equipo"
+
+#: includes/admin-dashboard.php:116
+#: wporg/trunk/includes/admin-dashboard.php:105
+msgid "Card Carousel"
+msgstr "Carrusel de tarjetas"
+
+#: includes/admin-dashboard.php:110 wporg/trunk/includes/admin-dashboard.php:99
+msgid "Content Carousel"
+msgstr "Carrusel de contenidos"
+
+#: includes/admin-dashboard.php:104 wporg/trunk/includes/admin-dashboard.php:93
+msgid "Logo Carousel"
+msgstr "Carrusel de logotipos"
+
+#: includes/admin-dashboard.php:98 wporg/trunk/includes/admin-dashboard.php:87
+msgid "Image Carousel"
+msgstr "Carrusel de imágenes"
+
+#: includes/admin-dashboard.php:54 wporg/trunk/includes/admin-dashboard.php:42
+msgid "Get Pro"
+msgstr "Obtener la versión Pro"
+
+#: includes/admin-dashboard.php:24 includes/admin-dashboard.php:25
+#: wporg/trunk/includes/admin-dashboard.php:20
+#: wporg/trunk/includes/admin-dashboard.php:21
+msgid "WowCarousel"
+msgstr "WowCarousel"
+
+#. Author URI of the plugin
+msgid "https://divipeople.com/"
+msgstr "https://divipeople.com/"
+
+#. Author of the plugin
+msgid "DiviPeople"
+msgstr "DiviPeople"
+
+#. Description of the plugin
+msgid "A Divi touch enabled plugin that lets you create a beautiful responsive carousel slider."
+msgstr "Un plugin con controles táctiles que te permite crear un bonito carrusel deslizante adaptable."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wow-carousel-for-divi-lite/"
+msgstr "https://wordpress.org/plugins/wow-carousel-for-divi-lite/"
